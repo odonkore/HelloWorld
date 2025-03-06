@@ -5,7 +5,7 @@ Hello World program written in Python with VS Code.
 The Hello World program was created to demonstrate end-to-end integration with GitHub and VS code.
 
 
-[Hello World Demo Video](http://youtube.link.goes.here)
+[Hello World Demo Video](https://youtu.be/yoigSejB02M)
 
 # Development Environment
 
